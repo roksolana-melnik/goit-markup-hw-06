@@ -1,9 +1,7 @@
 /*font-family: "Roboto", sans-serif*/
 /*font-family: "Raleway", sans-serif*/
 
-.hidden {
-  display: none;
-}
+/* #region common */
 
 body {
   font-family: "Roboto", sans-serif;
@@ -62,8 +60,6 @@ button {
   overflow: hidden;
 }
 
-/*common*/
-
 .container {
   max-width: 320px;
   padding: 0 16px;
@@ -82,6 +78,8 @@ button {
     padding: 0 15px;
   }
 }
+
+/* #endregion common */
 
 /* #region header */
 
